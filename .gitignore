@@ -1,0 +1,7 @@
+flower_data/
+flower_classifier.keras
+*.h5
+__pycache__/
+*.pyc
+venv/
+.venv/
